@@ -28,6 +28,17 @@
     text-shadow: 1px 1px 1px black;
 }
 
+.login{
+    position: absolute;
+    top: 35%;
+    width: 100%;
+    color: #fff;
+    font-weight: 800;
+    font-size: 3em;
+    text-align: center;
+    text-shadow: 1px 1px 1px black;
+}
+
 .greeting{
     position: absolute;
     top: 35%;
