@@ -1,3 +1,82 @@
+.wrap{
+    margin: 0 auto;
+}
+
 .hidden{
     display:none;
+}
+
+.bgimg{
+    background-size:cover;
+    width: 100%;
+}
+
+.weather{
+    text-align: right;
+    color:aliceblue;
+    text-shadow: 1px 1px 1px black;    
+}
+
+.clock{
+    position: absolute;
+    top: 10%;
+    width: 100%;
+    text-align: center;
+    font-size: 7em;
+    font-weight: 1000;
+    color: #fff;
+    text-shadow: 1px 1px 1px black;
+}
+
+.greeting{
+    position: absolute;
+    top: 35%;
+    width: 100%;
+    color: #fff;
+    font-weight: 800;
+    font-size: 3em;
+    text-align: center;
+    text-shadow: 1px 1px 1px black;
+}
+
+.todo-form{
+    position: absolute;
+    top: 45%;
+    width: 100%;
+    text-align: center;
+    color:aliceblue;
+    border-radius: 3px;
+    size:100px;
+}
+
+.todo-list{
+    position: absolute;
+    top: 56%;
+    width: 100%;
+    text-align: center;
+    color:aliceblue;
+    background-color: transparent;
+    text-shadow: 1px 1px 1px black;
+}
+.quote{
+    position: absolute;
+    top: 90%;
+    width: 100%;
+    text-align: center;
+    color:aliceblue;
+    text-shadow: 1px 1px 1px black;
+}
+
+ul{
+    list-style: none;
+    margin: 0 auto;
+}
+
+li{
+    background-color: transparent;
+    color: #fff;
+    width:fit-content;
+    margin: 0% 40%;
+    padding: 0%;
+    text-shadow: 1px 1px 1px black;
 }

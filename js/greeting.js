@@ -3,6 +3,7 @@ const loginInput = document.querySelector("#login-form input")
 const greeting = document.querySelector("#greeting")
 
 const HIDDEN_CLASSNAME = "hidden"
+const GREETING_CLASSNAME ="greeting"
 const USERNAME_KEY = "username"
 
 function onLoginSummit(event){

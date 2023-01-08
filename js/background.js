@@ -7,4 +7,3 @@ const body = document.querySelector("body")
 const backgroundImg = `url('img/${chosenImage}')`
 
 body.style.backgroundImage = backgroundImg
-body.style.backgroundSize = "1972px"
